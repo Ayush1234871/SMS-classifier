@@ -1,2 +1,8 @@
 streamlit
 nltk
+Pandas
+Numpy
+Matplotlib
+Pickle
+WordCloud
+Sklearn
